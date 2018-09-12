@@ -14,6 +14,7 @@
 		0447A3FF20D5726300C7FBB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0447A3FD20D5726300C7FBB4 /* LaunchScreen.storyboard */; };
 		0447A40A20D5726300C7FBB4 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447A40920D5726300C7FBB4 /* CountTests.swift */; };
 		0447A41520D5726300C7FBB4 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0447A41420D5726300C7FBB4 /* CountUITests.swift */; };
+		0447A42520D5747B00C7FBB4 /*  LOSER.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0447A42420D5747B00C7FBB4 /*  LOSER.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0447A41020D5726300C7FBB4 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0447A41420D5726300C7FBB4 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		0447A41620D5726300C7FBB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0447A42420D5747B00C7FBB4 /*  LOSER.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = " LOSER.jpg"; path = "../../../Documents/写真/ LOSER.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		0447A3F320D5726300C7FBB4 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				0447A42420D5747B00C7FBB4 /*  LOSER.jpg */,
 				0447A3F420D5726300C7FBB4 /* AppDelegate.swift */,
 				0447A3F620D5726300C7FBB4 /* ViewController.swift */,
 				0447A3F820D5726300C7FBB4 /* Main.storyboard */,
@@ -234,6 +237,7 @@
 			files = (
 				0447A3FF20D5726300C7FBB4 /* LaunchScreen.storyboard in Resources */,
 				0447A3FC20D5726300C7FBB4 /* Assets.xcassets in Resources */,
+				0447A42520D5747B00C7FBB4 /*  LOSER.jpg in Resources */,
 				0447A3FA20D5726300C7FBB4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
